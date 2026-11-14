@@ -1,0 +1,36 @@
+{
+  "gallery_format": "fieldnote.gallery/3",
+  "site": {
+    "slug": "osei-kelvin",
+    "display_name": "Osei, Kelvin",
+    "status_line": "Postdoctoral fellow in phonological modelling, Marrowfield University",
+    "contact": "k.osei@marrowfield.example",
+    "primary_handle": "@kosei",
+    "topics": [
+      "phonological modelling",
+      "tone systems in contact",
+      "computational fieldwork"
+    ],
+    "profile_urls": [
+      "https://marrowfield.example/~kosei",
+      "https://archive.example/people/kelvin-osei"
+    ],
+    "generator": "fieldnote-static/3.2"
+  },
+  "works": [
+    {
+      "rank": 1,
+      "title": "Tone Sandhi in Contact Varieties of Ikaan",
+      "venue": "Proceedings of the Phonology Meeting 2023",
+      "role": "first author",
+      "year": 2023
+    },
+    {
+      "rank": 2,
+      "title": "A Fieldwork Toolkit for Tone Annotation",
+      "venue": "Proceedings of LREC 2021",
+      "role": "co-author",
+      "year": 2021
+    }
+  ]
+}

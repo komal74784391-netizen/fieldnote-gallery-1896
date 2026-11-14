@@ -1,0 +1,43 @@
+{
+  "gallery_format": "fieldnote.gallery/3",
+  "site": {
+    "slug": "raman-priya",
+    "display_name": "Raman, Priya",
+    "status_line": "Doctoral candidate in speech sciences, Ravensbourne College",
+    "contact": "p.raman@ravensbourne.example",
+    "primary_handle": "@praman",
+    "topics": [
+      "speech rhythm",
+      "heritage bilingualism",
+      "articulatory phonetics"
+    ],
+    "profile_urls": [
+      "https://ravensbourne.example/~praman",
+      "https://archive.example/people/priya-raman"
+    ],
+    "generator": "fieldnote-static/3.2"
+  },
+  "works": [
+    {
+      "rank": 1,
+      "title": "Speech Rhythm Transfer in Heritage Bilinguals",
+      "venue": "Proceedings of Speech Prosody 2024",
+      "role": "first author",
+      "year": 2024
+    },
+    {
+      "rank": 2,
+      "title": "A Corpus of Read and Spontaneous Marathi",
+      "venue": "Proceedings of LREC 2022",
+      "role": "co-author",
+      "year": 2022
+    },
+    {
+      "rank": 3,
+      "title": "Articulatory Timing in Rapid Speech: An EMA Study",
+      "venue": "Proceedings of Interspeech 2022",
+      "role": "second author",
+      "year": 2022
+    }
+  ]
+}
